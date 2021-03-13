@@ -1,0 +1,8 @@
+console.log(typeof 1.0)
+console.log(typeof "Olá")
+console.log(typeof class honor{})
+console.log(typeof function(){})
+console.log(typeof true)
+console.log(typeof (this === this))
+console.log(typeof this)
+console.log(typeof Object)
